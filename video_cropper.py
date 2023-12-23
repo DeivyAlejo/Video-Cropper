@@ -17,7 +17,7 @@ def imgcrop(frame, rectangle_points):
   return frame[point1[1]:point2[1], point1[0]:point2[0]]
     
 
-cap = cv.VideoCapture('Media1.mp4')
+cap = cv.VideoCapture('Media1.MP4')
 
 paused = False
 refresh = True
