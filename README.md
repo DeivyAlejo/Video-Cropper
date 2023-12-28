@@ -15,6 +15,6 @@ You can use pip install requirements.txt and all the needed libraries will insta
 
 You should run video_cropper.py. Once executed, choose a video, and then select a folder to save the cropped video. When the video loads, the first frame will appear on the screen. At this point, select two points to create a rectangle, determining the area to be saved as a new video. Press the middle mouse button to select a point; after two clicks, a green rectangle will appear, indicating the area to crop.
 
-To delete the selected area, press the 'r' key. 
-To quit the script, press the 'q' key. 
-After selecting the rectangle, press the 's' key to save the video. Once processing is complete, the script will close everything.
+- To delete the selected area, press the 'r' key. 
+- To quit the script, press the 'q' key. 
+- After selecting the rectangle, press the 's' key to save the video. Once processing is complete, the script will close everything.
